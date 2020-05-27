@@ -1,0 +1,16 @@
+Nome: Giovanni Fonseca Correia
+Título: IDENTIFICAÇÃO E EXTRAÇÃO DE DADOS DE PORTAIS DE DADOS
+ABERTOS: UMA INICIATIVA OPEN DATA
+Resumo: Com a crescente do tema de dados abertos nos últimos anos e com a
+disponibilização de cada vez mais portais que buscam atender aos requisitos de
+abertura de dados, verificou-se a necessidade de um método que seja capaz de
+identificar qual a plataforma utilizada para o desenvolvimento dos portais de
+dados, e se suas ações condizem com a política dos dados abertos. Assim, o projeto
+tem como principal objetivo o desenvolvimento de algoritmos capazes de
+identificar qual a plataforma utilizada e extrair informações básicas como a
+quantidade de datasets e a localização da iniciativa. Uma vez selecionadas as
+plataformas a serem consideradas, este projeto contribui com uma comparação
+entre elas, especificando os principais recursos disponibilizados, de modo que a
+melhor solução seja indicada a partir de um conjunto de necessidades.
+Orientador: Prof. Dr. Andreiwid Sheffer Corrêa
+Mês/Ano: Dez de 2019
